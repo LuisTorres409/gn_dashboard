@@ -5,7 +5,6 @@ import folium
 import requests
 from datetime import datetime
 import re
-from streamlit_extras.app_logo import add_logo
 from streamlit_folium import st_folium
 
 
