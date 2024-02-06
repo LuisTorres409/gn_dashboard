@@ -1,6 +1,5 @@
 import streamlit as st
 import pandas as pd
-import matplotlib
 import plotly
 import plotly.express as px
 import geopandas as gpd
